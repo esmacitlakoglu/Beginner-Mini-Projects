@@ -1,5 +1,4 @@
-
-Mini Beginner Projects 🚀
+Mini Beginner Projects 
 Programlama öğrenirken yazdığım temel C alıştırmaları.
 
 Icecream Shopping Program
