@@ -1,11 +1,8 @@
-# Beginner-Mini-Projects
-mini-beginner-projects/
-│
-├── math-calculators/
-│   ├── sphere_calculator.py (veya hangi dilde yazdıysan)
-│   └── triangle_area.py
-│
-├── string-operations/
-│   └── text_reverser.py
-│
-└── README.md
+
+Mini Beginner Projects 🚀
+Programlama öğrenirken yazdığım temel C alıştırmaları.
+
+Icecream Shopping Program
+
+Küre Hesaplayıcı: Girilen yarıçapa göre kürenin hacmini ve yüzey alanını ve çemberin çevresini hesaplar.
+
